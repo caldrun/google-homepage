@@ -1,0 +1,1 @@
+Goal is to create a small HTML & CSS project that mimics the Google homepage using Dev Tools.
